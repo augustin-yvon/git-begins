@@ -4,3 +4,4 @@ git commit -m "commit"
 git push
 git pull
 git branch
+git checkout nom_de_la_branche
